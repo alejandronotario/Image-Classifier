@@ -16,10 +16,40 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 In this project, it is trained an image classifier to recognize different species of flowers using a dataset with 102 categories
 
-## Flowers dataset
+## Parts
+
+__Part 1 - Development Notebook__
+
+- Preporcessing and preparing datasets wth torchvision's ImageFolder 
+- Preparing train loaders, valid loaders, and test loaders with torchvision's DataLoader
+- Pre-train network densenet121
+- Feedforward network classifier
+- Training and validation
+- Save training model
+- Predicting
+
+__Part 2 - Command Line Application__
+
+- Training new network
+- Include three different architectures
+- Set hyperparameters for learning rate, number of hidden units, and training epochs
+- Choosing training the model on a GPU
+- Predicting
+
+
+## Links:
+
+Flowers dataset
 
 http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 
+PyTorch package
+
+https://pytorch.org/
+
+Certificate
+
+https://confirm.udacity.com/D9YMFCKJ
 
 ## Prerequisites
 
