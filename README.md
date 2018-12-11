@@ -25,11 +25,10 @@ http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 
 Python 3
 
-Libraries
+Libraries:
 
 ```python
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
+
 import numpy as np
 import time
 import torch
@@ -45,6 +44,8 @@ from torch.utils.data import DataLoader
 import sys
 import json
 from contextlib import contextmanager
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
 ```
 
 ## Certificate
