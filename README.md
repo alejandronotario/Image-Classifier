@@ -49,4 +49,4 @@ from contextlib import contextmanager
 
 ## Certificate
 
-![alt text](https://confirm.udacity.com/D9YMFCKJ)
+![alt text](https://github.com/alejandronotario/Image-Classifier/certificateAN.jpg)
